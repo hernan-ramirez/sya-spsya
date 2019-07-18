@@ -1,0 +1,1 @@
+[30-Mar-2004 16:29:58] PHP Parse error:  parse error, unexpected T_ELSEIF in c:\phpdev5\www\public\www.sportsya.com\registro\suscripcion.php on line 211

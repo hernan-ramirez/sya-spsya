@@ -1,0 +1,8 @@
+[26-Feb-2004 21:29:18] PHP Warning:  Wrong parameter count for date() in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 119
+[26-Feb-2004 21:29:19] PHP Warning:  Wrong parameter count for date() in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 119
+[26-Feb-2004 21:29:19] PHP Warning:  Wrong parameter count for date() in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 119
+[26-Feb-2004 21:29:19] PHP Warning:  Wrong parameter count for date() in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 119
+[26-Feb-2004 23:04:31] PHP Parse error:  parse error, unexpected $ in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 162
+[26-Feb-2004 23:04:31] PHP Parse error:  parse error, unexpected $ in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 162
+[26-Feb-2004 23:04:32] PHP Parse error:  parse error, unexpected $ in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 162
+[18-Mar-2004 22:10:45] PHP Parse error:  parse error, unexpected T_VARIABLE in c:\phpdev5\www\public\www.sportsya.com\newsletter\suscripcion.php on line 8

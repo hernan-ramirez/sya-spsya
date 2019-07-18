@@ -1,0 +1,26 @@
+Por la presente le acercamos los datos de conexión con la totalidad de las fuentes de información del sitio Sportsya.com. Se recomienda no divulgar ninguno de estos datos ni transmitirlos vía mail o sistema de mensajeria instantánea.
+
+FTP Server ns1/Acceso a Archivos
+ns1.sportsya.com
+usr: sportsya
+pss: e5192amt
+
+FTP Server ns1/Acceso a Front
+ns1.sportsya.com
+usr: sports
+pss: btk216c8
+
+
+db admin
+usr: sportsya
+pass: hio75bdf
+
+Acceso a DB
+https://phpmyadmin.sportsya.com
+usr: sports
+pss: vcnap815
+
+MailAdmin
+https://mailadmin.sportsya.com
+usr: admin
+pss: cp8530de

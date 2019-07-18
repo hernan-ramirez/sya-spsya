@@ -1,0 +1,1 @@
+[12-Feb-2004 20:25:54] PHP Fatal error:  Failed opening required '../../common/conexion.php' (include_path='.;c:\php4\pear') in c:\phpdev5\www\public\www.sportsya.com\especiales\futbol\futbol_common\ficha_partido.php on line 9

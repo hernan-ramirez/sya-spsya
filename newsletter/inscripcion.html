@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<HTML><HEAD><TITLE>Newsletter</TITLE>
+<META http-equiv= content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2800.1400" name=GENERATOR><META http-equiv="" content="text/html; charset=iso-8859-1">
+<STYLE>
+body,td,input,select,textarea{
+	font-family:Arial;
+	font-size:11px;
+	}
+	input {  
+	font-family:   Arial, Helvetica, sans-serif;
+	font-size: 8pt; 
+	color: #000000; 
+	}
+</STYLE>
+<SCRIPT>
+// cambar target
+function ct(valor){
+	document.forms[0].action = "https://mailman.sportsya.com/subscribe/" + valor;
+	document.forms[1].action = "https://mailman.sportsya.com/options/" + valor;
+}
+</SCRIPT>
+</HEAD>
+<BODY bgColor=#000000 text="#FFFFFF">
+<table width="100%" border="0" cellspacing="1" cellpadding="0">
+  <tr>
+    <td><font size="5"><strong>Newsletter</strong></font></td>
+  </tr>
+</table>
+<TABLE width="100%" border="0" cellspacing="1" cellpadding="1">
+  <TR> 
+    <TD colspan="2"> <strong>Seleccione los deportes de su inter&eacute;s:</strong></TD>
+  </TR><br>
+  <TR> 
+    <TD colspan="2">&nbsp; </TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="deporte" onClick="ct(this.value);"></TD>
+    <TD width="100%">Deportes en geneal</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Deportear" onClick="ct(this.value);"></TD>
+    <TD>Deportes de Argentina </TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Deportemx" onClick="ct(this.value);"></TD>
+    <TD>Deportes de M&eacute;xico</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Deporteus" onClick="ct(this.value);"></TD>
+    <TD>Deportes de USA</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Futbol" onClick="ct(this.value);"></TD>
+    <TD>F&uacute;tbol general</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Futbolar" onClick="ct(this.value);"></TD>
+    <TD>F&uacute;tbol de argentina</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Futbolmx" onClick="ct(this.value);"></TD>
+    <TD> F&uacute;tbol de M&eacute;xico</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Tenis" onClick="ct(this.value);"></TD>
+    <TD>Tenis</TD>
+  </TR>
+  <TR> 
+    <TD><INPUT type="radio" name="lista" value="Tenisar" onClick="ct(this.value);"></TD>
+    <TD> Tenis de Argentina</TD>
+  </TR>
+</TABLE>
+<FORM action="" method="post">
+  <TABLE width="100%" border=0 align="center" cellPadding=2 cellSpacing=2>
+    <TBODY>
+      <TR> 
+        <TD nowrap>Dirección de correo electrónico:</TD>
+        <TD width="100%"><INPUT size=30 name=email> </TD>
+      </TR>
+      <TR> 
+        <TD>Su nombre:</TD>
+        <TD><INPUT size=30 name=fullname></TD>
+      </TR>
+
+      <TR> 
+        <TD>Elija una clave:</TD>
+        <TD><INPUT type=password size=15 name=pw></TD>
+      </TR>
+      <!--
+      <TR> 
+        <TD>Confirme la clave:</TD>
+        <TD><INPUT type=password size=15 name=pw-conf></TD>
+      </TR>
+      <TR> 
+        <TD>¿En que idioma desea visualizar sus mensajes?</TD>
+        <TD><SELECT name=language>
+            <OPTION value=es selected>Español (España)</OPTION>
+            <OPTION value=en>Inglés (EEUU)</OPTION>
+            <OPTION value=pt_BR>Portugués (Basil)</OPTION>
+            <OPTION 
+                value=pt>Portugués</OPTION>
+          </SELECT></TD>
+      </TR>
+      <TR> 
+        <TD>¿Desea recibir los mensaje de cada día reunidos en un único mensaje 
+          (digest)? </TD>
+        <TD>No Sí </TD>
+      </TR>
+	  -->
+      <TR> 
+        <TD colSpan=2> <CENTER>
+            <INPUT type=submit value=Subscribir name=email-button>
+          </CENTER></TR>
+    </TBODY>
+  </TABLE>
+</FORM>
+<HR>
+<FORM action="" method="post">
+  Ingrese su clave para editar sus datos. 
+  <Left>
+      <INPUT size=30 name=email>
+      <INPUT type=submit value="Ingresar" name=UserOptions>
+      <INPUT type=hidden value=es name=language>
+    </left>
+    </FORM>
+</BODY>
+</HTML>

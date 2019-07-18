@@ -1,0 +1,178 @@
+[12-Feb-2004 16:46:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 12
+[12-Feb-2004 17:03:10] PHP Parse error:  parse error, unexpected T_RETURN in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 22
+[12-Feb-2004 17:03:49] PHP Parse error:  parse error, unexpected T_RETURN in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 22
+[12-Feb-2004 17:03:50] PHP Parse error:  parse error, unexpected T_RETURN in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 22
+[12-Feb-2004 17:04:17] PHP Parse error:  parse error, unexpected T_VARIABLE in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 22
+[12-Feb-2004 17:04:17] PHP Parse error:  parse error, unexpected T_VARIABLE in c:\phpdev5\www\public\www.sportsya.com\welcome\contador_not_principal.php on line 22
+[05-Mar-2004 15:57:07] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 4
+[05-Mar-2004 15:57:07] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 4
+[05-Mar-2004 15:57:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 5
+[05-Mar-2004 15:57:08] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[05-Mar-2004 15:57:08] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[05-Mar-2004 15:57:08] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[05-Mar-2004 15:57:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 21
+[05-Mar-2004 15:57:09] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[05-Mar-2004 15:57:09] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[05-Mar-2004 15:57:09] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[05-Mar-2004 15:57:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 22
+[05-Mar-2004 15:57:10] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[05-Mar-2004 15:57:10] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[05-Mar-2004 15:57:10] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[05-Mar-2004 15:57:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 14
+[05-Mar-2004 15:57:11] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[05-Mar-2004 15:57:11] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[05-Mar-2004 15:57:11] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[05-Mar-2004 15:57:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 8
+[05-Mar-2004 15:57:11] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_155x64.php on line 8
+[05-Mar-2004 15:57:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_155x64.php on line 9
+[05-Mar-2004 15:57:12] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[05-Mar-2004 15:57:12] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[05-Mar-2004 15:57:12] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[05-Mar-2004 15:57:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 15
+[05-Mar-2004 15:57:13] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[05-Mar-2004 15:57:13] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[05-Mar-2004 15:57:13] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[05-Mar-2004 15:57:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 11
+[05-Mar-2004 15:57:14] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[05-Mar-2004 15:57:14] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[05-Mar-2004 15:57:14] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[05-Mar-2004 15:57:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 8
+[05-Mar-2004 15:57:16] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[05-Mar-2004 15:57:16] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[05-Mar-2004 15:57:16] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[05-Mar-2004 15:57:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 26
+[05-Mar-2004 15:57:17] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[05-Mar-2004 15:57:17] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[05-Mar-2004 15:57:17] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[05-Mar-2004 15:57:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 77
+[05-Mar-2004 15:57:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_bottom.php on line 7
+[05-Mar-2004 15:57:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_bottom.php on line 8
+[05-Mar-2004 15:57:18] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[05-Mar-2004 15:57:18] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[05-Mar-2004 15:57:18] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[05-Mar-2004 15:57:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 13
+[05-Mar-2004 15:57:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\common\encuestas.php on line 7
+[05-Mar-2004 15:57:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\encuestas.php on line 8
+[05-Mar-2004 15:57:19] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[05-Mar-2004 15:57:19] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[05-Mar-2004 15:57:19] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[05-Mar-2004 15:57:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 15
+[05-Mar-2004 15:57:20] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[05-Mar-2004 15:57:20] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[05-Mar-2004 15:57:20] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[05-Mar-2004 15:57:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 9
+[05-Mar-2004 15:57:21] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[05-Mar-2004 15:57:21] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[05-Mar-2004 15:57:21] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[05-Mar-2004 15:57:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 11
+[05-Mar-2004 15:57:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_1.php on line 14
+[05-Mar-2004 15:57:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_1.php on line 15
+[05-Mar-2004 15:57:22] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[05-Mar-2004 15:57:22] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[05-Mar-2004 15:57:22] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[05-Mar-2004 15:57:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 11
+[05-Mar-2004 15:57:22] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_2.php on line 14
+[05-Mar-2004 15:57:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_2.php on line 15
+[05-Mar-2004 15:57:22] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_3.php on line 14
+[05-Mar-2004 15:57:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_3.php on line 15
+[27-Mar-2004 14:43:16] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 4
+[27-Mar-2004 14:43:16] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 4
+[27-Mar-2004 14:43:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\common\conexion.php on line 5
+[27-Mar-2004 14:43:17] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[27-Mar-2004 14:43:17] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[27-Mar-2004 14:43:17] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 20
+[27-Mar-2004 14:43:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\scroll.php on line 21
+[27-Mar-2004 14:43:18] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[27-Mar-2004 14:43:18] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[27-Mar-2004 14:43:18] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 21
+[27-Mar-2004 14:43:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 22
+[27-Mar-2004 14:43:19] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[27-Mar-2004 14:43:19] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[27-Mar-2004 14:43:19] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 13
+[27-Mar-2004 14:43:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\solapas.inc.php on line 14
+[27-Mar-2004 14:43:20] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[27-Mar-2004 14:43:20] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[27-Mar-2004 14:43:20] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 7
+[27-Mar-2004 14:43:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\estructura.fnc.php on line 8
+[27-Mar-2004 14:43:20] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_155x64.php on line 8
+[27-Mar-2004 14:43:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_155x64.php on line 9
+[27-Mar-2004 14:43:21] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[27-Mar-2004 14:43:21] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[27-Mar-2004 14:43:21] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 13
+[27-Mar-2004 14:43:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_alerta.php on line 15
+[27-Mar-2004 14:43:22] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[27-Mar-2004 14:43:22] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[27-Mar-2004 14:43:22] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 10
+[27-Mar-2004 14:43:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_principal.php on line 11
+[27-Mar-2004 14:43:24] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[27-Mar-2004 14:43:24] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[27-Mar-2004 14:43:24] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 7
+[27-Mar-2004 14:43:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_top.php on line 8
+[27-Mar-2004 14:43:25] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[27-Mar-2004 14:43:25] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[27-Mar-2004 14:43:25] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 25
+[27-Mar-2004 14:43:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 26
+[27-Mar-2004 14:43:26] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[27-Mar-2004 14:43:26] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[27-Mar-2004 14:43:26] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 76
+[27-Mar-2004 14:43:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_secundarias_breves.php on line 77
+[27-Mar-2004 14:43:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_bottom.php on line 7
+[27-Mar-2004 14:43:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_468_bottom.php on line 8
+[27-Mar-2004 14:43:27] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[27-Mar-2004 14:43:27] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[27-Mar-2004 14:43:27] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 12
+[27-Mar-2004 14:43:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\welcome\not_mas_noticias.php on line 13
+[27-Mar-2004 14:43:27] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\common\encuestas.php on line 7
+[27-Mar-2004 14:43:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\encuestas.php on line 8
+[27-Mar-2004 14:43:28] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[27-Mar-2004 14:43:28] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[27-Mar-2004 14:43:28] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 14
+[27-Mar-2004 14:43:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\opinion\opinion.php on line 15
+[27-Mar-2004 14:43:29] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[27-Mar-2004 14:43:29] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[27-Mar-2004 14:43:29] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 8
+[27-Mar-2004 14:43:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\common\lista_de_mam.inc.php on line 9
+[27-Mar-2004 14:43:30] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[27-Mar-2004 14:43:30] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[27-Mar-2004 14:43:30] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 10
+[27-Mar-2004 14:43:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\resultados\resumen_partidos.inc.php on line 11
+[27-Mar-2004 14:43:30] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_1.php on line 14
+[27-Mar-2004 14:43:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_1.php on line 15
+[27-Mar-2004 14:43:31] PHP Warning:  Can't connect to MySQL server on 'localhost' (10061) in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[27-Mar-2004 14:43:31] PHP Warning:  MySQL Connection Failed: Can't connect to MySQL server on 'localhost' (10061)
+ in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[27-Mar-2004 14:43:31] PHP Warning:  MySQL:  A link to the server could not be established in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 10
+[27-Mar-2004 14:43:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\entrevistas\entrevistas.php on line 11
+[27-Mar-2004 14:43:31] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_2.php on line 14
+[27-Mar-2004 14:43:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_2.php on line 15
+[27-Mar-2004 14:43:31] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_3.php on line 14
+[27-Mar-2004 14:43:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in c:\phpdev5\www\public\www.sportsya.com\banners\banner_140x55_3.php on line 15
